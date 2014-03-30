@@ -1,0 +1,17 @@
+Things to do today:
+
+- Create MVC Structure in Project (multi-tier layout)
+	Class Library, 
+	Tests, 
+	Views-web forms, 
+	Controller classes-aspx.cs files
+
+- Configure in-built permissions for project/Configure log-in page
+
+- Configure report creation function for consultants
+
+If time: 
+- Start making screens more user friendly
+- Configure Database component using SQL Server Local DB
+- Create test data (user accounts and passwords, reports, expenses)
+
