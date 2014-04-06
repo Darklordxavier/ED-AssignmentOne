@@ -1,0 +1,26 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Supervisor_Screen.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="width: 1370px">
+    <form id="form1" runat="server">
+    <div>
+        <br />
+        <asp:Label ID="lblCompanyName" runat="server" BackColor="#99FFCC" BorderColor="Black" Font-Bold="True" Font-Size="XX-Large" ForeColor="Blue" Text="Blue Consulting" Width="100%"></asp:Label>
+        <br />
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+            <br />
+        
+        </asp:ContentPlaceHolder>
+        <br />
+    </div>
+    </form>
+</body>
+</html>

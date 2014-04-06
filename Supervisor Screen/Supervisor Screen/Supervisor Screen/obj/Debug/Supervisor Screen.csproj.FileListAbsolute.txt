@@ -1,0 +1,10 @@
+C:\Users\Anthoni\Desktop\Supervisor Screen\Supervisor Screen\bin\Supervisor Screen.dll
+C:\Users\Anthoni\Desktop\Supervisor Screen\Supervisor Screen\bin\Supervisor Screen.pdb
+C:\Users\Anthoni\Desktop\Supervisor Screen\Supervisor Screen\obj\Debug\Supervisor Screen.csprojResolveAssemblyReference.cache
+C:\Users\Anthoni\Desktop\Supervisor Screen\Supervisor Screen\obj\Debug\Supervisor Screen.dll
+C:\Users\Anthoni\Desktop\Supervisor Screen\Supervisor Screen\obj\Debug\Supervisor Screen.pdb
+C:\Users\Tuan\Documents\GitHub\ED-AssignmentOne\Supervisor Screen\Supervisor Screen\Supervisor Screen\bin\Supervisor Screen.dll
+C:\Users\Tuan\Documents\GitHub\ED-AssignmentOne\Supervisor Screen\Supervisor Screen\Supervisor Screen\bin\Supervisor Screen.pdb
+C:\Users\Tuan\Documents\GitHub\ED-AssignmentOne\Supervisor Screen\Supervisor Screen\Supervisor Screen\obj\Debug\Supervisor Screen.csprojResolveAssemblyReference.cache
+C:\Users\Tuan\Documents\GitHub\ED-AssignmentOne\Supervisor Screen\Supervisor Screen\Supervisor Screen\obj\Debug\Supervisor Screen.dll
+C:\Users\Tuan\Documents\GitHub\ED-AssignmentOne\Supervisor Screen\Supervisor Screen\Supervisor Screen\obj\Debug\Supervisor Screen.pdb

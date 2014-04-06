@@ -3,3 +3,8 @@ c:\users\yu\documents\visual studio 2012\Projects\WebApplication1\WebApplication
 c:\users\yu\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
 c:\users\yu\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 c:\users\yu\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Tuan\Documents\GitHub\ED-AssignmentOne\prototype\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Tuan\Documents\GitHub\ED-AssignmentOne\prototype\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Tuan\Documents\GitHub\ED-AssignmentOne\prototype\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Tuan\Documents\GitHub\ED-AssignmentOne\prototype\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Tuan\Documents\GitHub\ED-AssignmentOne\prototype\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

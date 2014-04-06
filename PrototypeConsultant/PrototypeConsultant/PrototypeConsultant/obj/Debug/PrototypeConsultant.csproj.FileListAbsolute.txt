@@ -1,0 +1,10 @@
+C:\Users\Tuan\documents\visual studio 2012\Projects\PrototypeConsultant\PrototypeConsultant\bin\PrototypeConsultant.dll
+C:\Users\Tuan\documents\visual studio 2012\Projects\PrototypeConsultant\PrototypeConsultant\bin\PrototypeConsultant.pdb
+C:\Users\Tuan\documents\visual studio 2012\Projects\PrototypeConsultant\PrototypeConsultant\obj\Debug\PrototypeConsultant.csprojResolveAssemblyReference.cache
+C:\Users\Tuan\documents\visual studio 2012\Projects\PrototypeConsultant\PrototypeConsultant\obj\Debug\PrototypeConsultant.dll
+C:\Users\Tuan\documents\visual studio 2012\Projects\PrototypeConsultant\PrototypeConsultant\obj\Debug\PrototypeConsultant.pdb
+C:\Users\Tuan\Documents\GitHub\ED-AssignmentOne\PrototypeConsultant\PrototypeConsultant\PrototypeConsultant\bin\PrototypeConsultant.dll
+C:\Users\Tuan\Documents\GitHub\ED-AssignmentOne\PrototypeConsultant\PrototypeConsultant\PrototypeConsultant\bin\PrototypeConsultant.pdb
+C:\Users\Tuan\Documents\GitHub\ED-AssignmentOne\PrototypeConsultant\PrototypeConsultant\PrototypeConsultant\obj\Debug\PrototypeConsultant.csprojResolveAssemblyReference.cache
+C:\Users\Tuan\Documents\GitHub\ED-AssignmentOne\PrototypeConsultant\PrototypeConsultant\PrototypeConsultant\obj\Debug\PrototypeConsultant.dll
+C:\Users\Tuan\Documents\GitHub\ED-AssignmentOne\PrototypeConsultant\PrototypeConsultant\PrototypeConsultant\obj\Debug\PrototypeConsultant.pdb
