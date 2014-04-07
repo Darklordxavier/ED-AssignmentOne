@@ -7,6 +7,7 @@ using System.Data.SqlClient;
 using System.IO;
 using System.Configuration;
 using BlueConsultingBusinessLogic.ReportDataSetTableAdapters;
+
 namespace BlueConsultingBusinessLogic
 {
     public static class DatabaseAccess

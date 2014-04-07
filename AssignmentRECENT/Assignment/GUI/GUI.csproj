@@ -62,8 +62,8 @@
     <Content Include="App_Data\DATABASE_log.ldf">
       <DependentUpon>DATABASE.MDF</DependentUpon>
     </Content>
-    <Content Include="Consultant\ConsultantMainGUI.aspx" />
-    <Content Include="Consultant\SubmitReport.aspx" />
+    <Content Include="ConsultantFolder\ConsultantMainGUI.aspx" />
+    <Content Include="ConsultantFolder\SubmitReport.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="Login.aspx" />
     <Content Include="DepartmentSupervisor\DepartmentSupervisorMainGUI.aspx" />
@@ -77,18 +77,18 @@
     <Compile Include="AccountStaff\AccountStaffMainGUI.aspx.designer.cs">
       <DependentUpon>AccountStaffMainGUI.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Consultant\ConsultantMainGUI.aspx.cs">
+    <Compile Include="ConsultantFolder\ConsultantMainGUI.aspx.cs">
       <DependentUpon>ConsultantMainGUI.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Consultant\ConsultantMainGUI.aspx.designer.cs">
+    <Compile Include="ConsultantFolder\ConsultantMainGUI.aspx.designer.cs">
       <DependentUpon>ConsultantMainGUI.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Consultant\SubmitReport.aspx.cs">
+    <Compile Include="ConsultantFolder\SubmitReport.aspx.cs">
       <DependentUpon>SubmitReport.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Consultant\SubmitReport.aspx.designer.cs">
+    <Compile Include="ConsultantFolder\SubmitReport.aspx.designer.cs">
       <DependentUpon>SubmitReport.aspx</DependentUpon>
     </Compile>
     <Compile Include="Default.aspx.cs">

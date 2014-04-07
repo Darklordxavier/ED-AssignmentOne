@@ -8,6 +8,7 @@ namespace BlueConsultingBusinessLogic
 {
     public class Report
     {
+        //use List instead of LinkedList
         LinkedList<Expense> expenses = new LinkedList<Expense>();
         public String ConsultantID { get; set; } //later on, we need to get this from database
         public String ReportDate { get; set; }

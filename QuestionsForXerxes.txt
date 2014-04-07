@@ -1,0 +1,5 @@
+add another field to users table (department type)
+
+Xerxes questions?
+is project structure ok? (is it 4 tier)
+can we use javascript for popup?
