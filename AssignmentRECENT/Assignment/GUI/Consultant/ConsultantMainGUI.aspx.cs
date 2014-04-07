@@ -19,19 +19,7 @@ namespace GUI.Consultant
             //update the date time using session?
             labelDate.Text = DateTime.Now.ToString();
 
-            ConsultantLogic consultant = (ConsultantLogic)Session["consultant"];
             LinkedList<Report> reports = new LinkedList<Report>();
-
-            if (consultant != null)
-            {
-                reports = consultant.getAllReports();
-
-                foreach (Report report in reports)
-                {
-                    String reportData = String.Format("{0}", report.ReportDate); //could add more identifiers?
-                    listboxReports.Items.Add(reportData);
-                }
-            }
 
             var connectionString = ConfigurationManager.ConnectionStrings["LocalSqlServer"].ConnectionString;
             var connection = new SqlConnection(connectionString);
@@ -52,27 +40,14 @@ namespace GUI.Consultant
 
         protected void btnCreateReport_Click(object sender, EventArgs e)
         {
-            Response.Redirect("ConsultantCreateReport.aspx");
+            Response.Write(" <script language='javascript'> window.open('SubmitReport.aspx','','width=500,Height=500,fullscreen=0,location=0,scrollbars=1,menubar=1,toolbar=1'); </script>"); ;
         }
 
         protected void btnShowReport_Click(object sender, EventArgs e)
         {
-            ConsultantLogic consultant = (ConsultantLogic)Session["consultant"];
             
-            if (consultant != null)
-            {
-                //find and print report
-                //later on make sure user selected something
-
-                String selectedReport = listboxReports.SelectedItem.ToString();
-                Report report = consultant.getReport(selectedReport); //here lies the problem
-
-                if (report != null) //if report is found
-                {
-                    Session["reportPreview"] = report.getFormattedReport();
-                    Response.Redirect("ConsultantShowReport.aspx");
-                }
-            }
+          
+          
         }
         
     }

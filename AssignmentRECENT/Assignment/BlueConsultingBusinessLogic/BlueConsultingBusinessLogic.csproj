@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConsultantLogic.cs" />
+    <Compile Include="Consultant.cs" />
     <Compile Include="DatabaseAccess.cs" />
     <Compile Include="Expense.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
