@@ -9,22 +9,21 @@
 <body>
     <form id="form1" runat="server">
         <h1>Blue Consulting - Consultant</h1>
-        <asp:Label ID="lblTest" runat="server" Text="Test"></asp:Label>
         <table>
             <tr>
                 <td>
-                    <p>Welcome, USERID</p>
-
+                    <p>
+                        Welcome,        
+                        <asp:Label ID="lblTest" runat="server" Text="Test"></asp:Label>
+                    </p>
                 </td>
                 <td>
                     <asp:Label ID="labelDate" runat="server" Text="Label"></asp:Label>
-
                 </td>
             </tr>
             <tr>
                 <td>
                     <asp:ListBox ID="listboxReports" runat="server" Width="328px" Height="208px"></asp:ListBox>
-
                 </td>
                 <td>
                     <asp:RadioButtonList ID="RadioButtonList1" runat="server" Height="204px">
@@ -34,13 +33,8 @@
                     </asp:RadioButtonList>
                 </td>
             </tr>
-
         </table>
-
-
         <asp:Button ID="btnCreateReport" runat="server" Text="Create Report" OnClick="btnCreateReport_Click" />
-
-
         <asp:Button ID="btnShowReport" runat="server" Text="Show Report" OnClick="btnShowReport_Click" />
         <asp:Button ID="btnLogout" runat="server" Text="Logout" Width="94px" />
         <asp:GridView ID="GridView1" runat="server">
