@@ -14,6 +14,7 @@ namespace BlueConsultingBusinessLogic
         //public String ReportDate { get; set; }
         public String ReportStatus { get; set; }
         public Image PDF { get; set; }
+
         public Report(string ConsultantID, string ReportStatus, string ReceiptPdfFilePath)
         {
             this.ConsultantID = ConsultantID;

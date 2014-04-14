@@ -10,23 +10,29 @@ namespace BlueConsultingBusinessLogic
 {
     public class Consultant
     {
-        LinkedList<Report> reports = new LinkedList<Report>();
+        List<Report> reports = new List<Report>();
         string consultantID;
         public Consultant()
         {
             //create new consultant
         }
 
+        public Consultant(List<Report> reports, string consultantID)
+        {
+            this.reports = reports;
+            this.consultantID = consultantID;
+        }
+
         public void addReport(Report report)
         {
-            reports.AddLast(report);
+            reports.Add(report);
         }
 
         public void submitReportToDatabase()
         {
             //DatabaseAccess.insertReportToDatabase(
         }
-        public LinkedList<Report> getAllReports()
+        public List<Report> getAllReports()
         {
             return reports;
         }
